@@ -222,6 +222,13 @@ main {
   padding: 40px;
 }
 
+.card-section img{
+    
+    height: 100px;
+    width: 100px;
+}
+
+
 .card-learn{
     color: black;
   font: bold;
